@@ -1,5 +1,5 @@
 aiodns==3.0.0
-aiohttp==3.8.6
+aiohttp==3.9.4
 aiohttp-socks==0.7.1
 arabic-reshaper~=3.0.0
 async-timeout==4.0.3
@@ -10,7 +10,7 @@ colorama==0.4.6
 future==0.18.3
 future-annotations==1.0.0
 html5lib==1.1
-idna==3.4
+idna==3.7
 Jinja2==3.1.3
 lxml==4.9.2
 MarkupSafe==2.1.1
@@ -27,7 +27,7 @@ socid-extractor>=0.0.24
 soupsieve==2.3.2.post1
 stem==1.8.1
 torrequest==0.1.0
-tqdm==4.66.1
+tqdm==4.66.3
 typing-extensions==4.8.0
 webencodings==0.5.1
 xhtml2pdf~=0.2.11
